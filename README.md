@@ -12,7 +12,7 @@ A Machine Learning Project to predict a student’s final score based on study h
 2. Feature Selection.
 3. Split into Train and Test
 4. Training the Model with Linear Regression
-5. Forecast
+5. Prediction
 6. Performance Evaluation with R2 Score
 
  ## Result
